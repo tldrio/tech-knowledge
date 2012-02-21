@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>JS tests</title>
+    </head>
+
+    <body>
+    
+
+        <script src="log4javascript-1.4.2/log4javascript.js"></script>
+        <script >
+            var log = log4javascript.getLogger("main");
+			var appender = new log4javascript.InPageAppender();
+			log.addAppender(appender);
+            // Test the logger
+            log.debug("Hello world!");
+        </script>
+        <script src="test-objects.js"> </script>
+    </body>
+</html>
+
