@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>JS tests</title>
+    </head>
+
+    <body>
+
+        <script src="lib/log4javascript-1.4.2/log4javascript.js"></script>
+        <script >
+            var log = log4javascript.getLogger("main");
+			var appender = new log4javascript.InPageAppender();
+			log.addAppender(appender);
+        </script>
+        <script src="pattern.js"> </script>
+    </body>
+</html>
+
