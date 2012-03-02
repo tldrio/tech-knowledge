@@ -100,6 +100,8 @@ server.addListener('NotFound', function(req, res) {
 
 
 
+
+
 // Start server
 server.listen(8080, function(){
   logger.info(server.name + ' listening at ' + server.url);
