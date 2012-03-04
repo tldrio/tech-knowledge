@@ -1,3 +1,15 @@
+/**
+ * Test code for restify library
+ * install restify with
+ * sudo npm install restify
+ *
+ * If you get an error on node-waf
+ * install node 0.7.1 then go back to 0.6.x version
+ *
+ * You have to install winston too via
+ * sudo npm install winston
+ */
+
 var restify = require('restify'),
     //Winston is for logging
     winston = require('winston'),
@@ -67,6 +79,12 @@ server.post('/hello', function create (req, res, next) {
   return next();
 });
 
+//Hanlding annoying favicon request in Chrome
+server.get('/favicon.ico', function(req, res, next){
+  res.end();
+});
+
+
 
 /*
  * Versioning
@@ -92,20 +110,59 @@ server.get({path:'/version/:arg', version: '2.0.0'}, respondV2);
 
 //We can listen to specific events to create custom handlers
 //See the doc for the event available
-server.addListener('NotFound', function(req, res) {
+server.on('NotFound', function(req, res) {
   logger.warn('This route doesnt exist');
   res.send(404, 'bad route');
 });
 
 
 
+/**
+ * Bundle Plugins
+ * 
+ */
+
+//Restify provides plugins (mainly parser) you can add
+//like server.use(restify.authorizationParser())
+
+server.use(restify.queryParser());
+server.get('/query', function(req, res, next) {
+  var param;
+  for (param in req.query){
+    if (req.query.hasOwnProperty(param)) {
+      logger.info(param + ': '+req.query[param]);
+    }
+  }
+  res.send('query with args');
+});
 
 
+
+
+var PORT = 8787;
 
 // Start server
-server.listen(8080, function(){
+server.listen(PORT, function(){
   logger.info(server.name + ' listening at ' + server.url);
  });
 
 
+ /**
+  * Client API : To consume REST API
+  *
+  */
+
+// Creates a JSON client
+var client = restify.createJsonClient({
+  url: 'http://localhost:'+PORT
+});
+
+
+
+client.basicAuth('$login', '$password');
+client.get('/hello/tita', function(err, req, res, obj) {
+
+  logger.info('in client');
+  console.log(JSON.stringify(obj, null, 2));
+});
 
