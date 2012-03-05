@@ -45,8 +45,10 @@ end
 # Enter posterous pwd
 puts "Please enter your Posterous Password"
 print '> '
+#avoid password to be displayed on the console
 `stty -echo`
 Posterous.config['password'] = STDIN.gets.chomp()
+#restore console display
 `stty echo`
 puts " "
 
