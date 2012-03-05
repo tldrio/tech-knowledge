@@ -4,8 +4,7 @@ false
 true
 
 When working on a project we always face repetitive parts. Copy and
-paste some boilerplates, manipulate images or files, publish our post
-on your blog... All those actions we do thinking how boring and a waste
+paste some boilerplates, manipulate images or files, publish blog posts... All those actions we do thinking how boring and a waste
 of time they are. But we also know there is always a way to be more productive.  
   
 In fact, we don't have to spend as much time for those tasks. We love
@@ -24,13 +23,13 @@ postpone the moment we open our favourite editor and start scripting.
 
 Scripting is for me an important activity for many reasons. First above
 all: it makes us spare a lot of time. The inputs changed? The task is
-the same except I log as Charles and you log as John? No matter, just
+the same except I log as Fred and you log as John? No matter, just
 rerun the script and we are done.  
 
 The second reason I love scripting is
 that we produce something concrete and useful. By writing our custom
 script we *"Scratch our own Stitch"*, we solve our own problem with our
-own technical skills. This always provide and immense satisfaction.
+own technical skills. This always provide an immense satisfaction.
 Even if it took us 20 minutes, it's milestone for our path to
 productivity. Coding a little script to automate a task is like shipping a
 little product.  
