@@ -5,3 +5,4 @@
 .*
 node_modules/*
 daily-digests/post2posterous.rb
+blog/post2posterous.rb
