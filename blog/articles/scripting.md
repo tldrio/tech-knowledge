@@ -1,7 +1,7 @@
-Stop procrastinating, start scripting
-productivity, script
-false
-true
+Title: Stop procrastinating, start scripting  
+Tags: productivity, script 
+Autopost: false  
+Private: true  
 
 When working on a project we always face repetitive parts. But we don't have to spend as much time for those tasks as we usually do. We love
 thinking: "I just have to do it once and then I'm
