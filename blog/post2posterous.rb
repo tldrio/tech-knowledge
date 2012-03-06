@@ -57,5 +57,4 @@ puts " "
 @site = Site.find('needforair')
 @post = @site.posts.create(:title => @title, :body => @body, :tags => @tags, :autopost => @autopost, :is_private => @is_private)
 
-print @post
 puts "Blog post successfully sent to Posterous"
