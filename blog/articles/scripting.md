@@ -8,9 +8,7 @@ to think: "_I just have to do it once and I won't have to do it again_" But we n
 the next one.    
 
 **Automate by scripting**  
-Task repetition can be solved in a painless way: scripting. All the automatable work we
-don't automate is wasted time. Instead
-we should always see mechanical tasks as potential scripts. It's only
+Task repetition can be solved in a painless way: scripting. When you don't automate repetitive work you waste time. We should always see mechanical tasks as potential scripts. It's only
 because we tend to procrastinate and we don't face this reality that we
 postpone the moment we start scripting.  
 
