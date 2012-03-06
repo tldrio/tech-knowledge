@@ -1,12 +1,16 @@
 Title: Stop procrastinating, start scripting  
 Tags: productivity, script 
-Autopost: false   
-Private: true  
+Autopost: true   
+Private: false  
 
 When working on a project we always face repetitive tasks. But we shouldn't have to spend as much time on those tasks as we usually do. We love
 to think: "_I just have to do it once and I won't have to do it again_" But we never have to do it only once, be it for the current project or
-the next one.    
-
+the next one.  
+  
+  
+![Illustration](http://farm2.staticflickr.com/1073/1352003098_1681416c2d_m.jpg "Keyboard")  
+  
+  
 **Automate by scripting**  
 Task repetition can be solved in a painless way: scripting. When you don't automate repetitive work you waste time. We should always see mechanical tasks as potential scripts. It's only
 because we tend to procrastinate and we don't face this reality that we
