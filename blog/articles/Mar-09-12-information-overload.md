@@ -8,7 +8,7 @@ aggregators and now so much
 more. We are constantly hit by new information, throughout the day, and
 the night. There are so many things we want to read or watch. 
 The fact that the Web is a strictly [RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer) application (or should I say
-[Hypermedia](http://blog.steveklabnik.com/posts/2012-02-13-an-api-ontology)) doesn't help because one links usually leads to more links. I'm sure
+[Hypermedia](http://blog.steveklabnik.com/posts/2012-02-13-an-api-ontology)) doesn't help because one link usually leads to more links. I'm sure
 you've already experienced having more than 20 tabs open in your browser
 and thinking "_God, when am I going to read all of this?_" but instead
 of starting reading you scan the links of the page in front of you and
@@ -59,7 +59,7 @@ quality of the links provided in the tweets. Same for RSS feeds.
 
 ## We need a new tool to find good content
 Basically none of today's tools are good at finding good news and
-information. You can use a combination of tools (such as [Quora](http://quora.com "Quora") and [StackExchange](http://stackexchange.com "StackEchange") but that is more
+information. You can use a combination of tools (such as [Quora](http://quora.com "Quora") and [StackExchange](http://stackexchange.com "StackEchange") but it is more
 difficult than one tool and is conducive to a lot of noise. Plus we are
 missing a linking tool between content of the same nature and topics,
 that would transcend time. There are services like [Delicous](http://delicious.com "Delicious") that you
