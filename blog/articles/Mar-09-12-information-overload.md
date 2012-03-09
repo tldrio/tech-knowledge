@@ -1,7 +1,7 @@
 Title: Information overload and how to keep up with it  
 Tags: productivity, information, news, time  
-Autopost: false  
-Private: true  
+Autopost: true  
+Private: false  
 
 Facebook notifications, Twitter feeds, RSS feeds, emails, news
 aggregators and now so much
@@ -17,7 +17,7 @@ just open more tabs. And this was only made worse by tools such as
 about saving stuff for later, even if you know deep inside you'll never
 come back to it.
 
-<a href="http://www.flickr.com/photos/martinofranchi/2925760927/" title="Information overload de Martino!, sur Flickr"><img src="http://farm4.staticflickr.com/3244/2925760927_a9db10926e_m.jpg" width="240" height="181" alt="Information overload"></a>
+[![Information overload](http://farm4.staticflickr.com/3244/2925760927_a9db10926e_m.jpg)](http://www.flickr.com/photos/martinofranchi/2925760927/)
 
 ## Current solutions
 It's extremely hard to keep up with all that information, and you
