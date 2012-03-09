@@ -15,18 +15,21 @@ load '../config/posterous.rb'
 
 include Posterous
 
-# Check is file exists and opens it
+# Check if file exists and opens it
 raise ArgumentError, 'Input file '+@filename+' does not exist' unless File.exists?(@filename)
 @digest = File.open(@filename)
 
 #Parse line to get post infos
 @title = @digest.gets.split(':')[1]
 print 'Title is: ' + @title
+
 @tags = @digest.gets.split(':')[1]
 print 'Tags are: '+ @tags
+
 #Strip to have exact true/false string
 @autopost = @digest.gets.split(':')[1].strip!
 puts 'Autopost config is '+ @autopost
+
 @is_private = @digest.gets.split(':')[1].strip!
 puts 'Private post: ' + @is_private
 
@@ -40,7 +43,7 @@ while line = @digest.gets
 end
 
 # Create HTML post to feed posterous
-@body = "<p><markdown>\n"+@text+"\n</p></markdown>"
+@body = "<p><markdown>\n"+@text+"\n</markdown></p>"
 
 # Enter posterous pwd
 puts "Please enter your Posterous Password"
