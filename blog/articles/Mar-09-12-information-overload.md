@@ -59,10 +59,10 @@ quality of the links provided in the tweets. Same for RSS feeds.
 
 ## We need a new tool to find good content
 Basically none of today's tools are good at finding good news and
-information. You can use a combination of tools (such as [Quora](http://quora.com "Quora") and [StackExchange](http://stackexchange.com "StackEchange")but that is more
+information. You can use a combination of tools (such as [Quora](http://quora.com "Quora") and [StackExchange](http://stackexchange.com "StackEchange") but that is more
 difficult than one tool and is conducive to a lot of noise. Plus we are
 missing a linking tool between content of the same nature and topics,
-that would transcend time. There are services like [Delicous](http://delicious.com "Delicious")that you
+that would transcend time. There are services like [Delicous](http://delicious.com "Delicious") that you
 can browse by searching for tags, but it is not powerful enough in the
 way it presents the information. There are still too many links and not
 enough clues as to which are interesting and which are not.
