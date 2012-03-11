@@ -1,14 +1,14 @@
 Title: Information overload and how to keep up with it  
 Tags: productivity, information, news, time  
-Autopost: false  
-Private: true  
+Autopost: true  
+Private: false  
 
 Facebook notifications, Twitter feeds, RSS feeds, emails, news
 aggregators and now so much
 more. We are constantly hit by new information, throughout the day, and
 the night. There are so many things we want to read or watch. 
 The fact that the Web is a strictly [RESTful](http://en.wikipedia.org/wiki/Representational_state_transfer) application (or should I say
-[Hypermedia](http://blog.steveklabnik.com/posts/2012-02-13-an-api-ontology)) doesn't help because one links usually leads to more links. I'm sure
+[Hypermedia](http://blog.steveklabnik.com/posts/2012-02-13-an-api-ontology)) doesn't help because one link usually leads to more links. I'm sure
 you've already experienced having more than 20 tabs open in your browser
 and thinking "_God, when am I going to read all of this?_" but instead
 of starting reading you scan the links of the page in front of you and
@@ -17,7 +17,7 @@ just open more tabs. And this was only made worse by tools such as
 about saving stuff for later, even if you know deep inside you'll never
 come back to it.
 
-<a href="http://www.flickr.com/photos/martinofranchi/2925760927/" title="Information overload de Martino!, sur Flickr"><img src="http://farm4.staticflickr.com/3244/2925760927_a9db10926e_m.jpg" width="240" height="181" alt="Information overload"></a>
+[![Information overload](http://farm4.staticflickr.com/3244/2925760927_a9db10926e_m.jpg)](http://www.flickr.com/photos/martinofranchi/2925760927/)
 
 ## Current solutions
 It's extremely hard to keep up with all that information, and you
@@ -59,12 +59,14 @@ quality of the links provided in the tweets. Same for RSS feeds.
 
 ## We need a new tool to find good content
 Basically none of today's tools are good at finding good news and
-information. You can use a combination of tools (such as [Quora](http://quora.com "Quora") and [StackExchange](http://stackexchange.com "StackEchange") but that is more
+information. You can use a combination of tools (such as [Quora](http://quora.com "Quora") and [StackExchange](http://stackexchange.com "StackEchange") but it is more
 difficult than one tool and is conducive to a lot of noise. Plus we are
 missing a linking tool between content of the same nature and topics,
-that would transcend time. There are services like [Delicous](http://delicious.com "Delicious") that you
+that would transcend time. There are services like [Delicious](http://delicious.com "Delicious") that you
 can browse by searching for tags, but it is not powerful enough in the
 way it presents the information. There are still too many links and not
 enough clues as to which are interesting and which are not.
+
+But don't worry, we're working on it ;) 
 
 Photo credit: [Martino](http://www.flickr.com/photos/martinofranchi/ )
