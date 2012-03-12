@@ -3,22 +3,30 @@ Tags: communication, productivity
 Autopost: false  
 Private: true  
 
+In a recent [post](http://www.forbes.com/sites/bruceupbin/2011/12/13/five-new-management-metrics-you-need-to-know/ "Article"),
+James Slavet (Greylock Partners) describes metrics we should consider to
+be more productive. The top one is called Flow State Percentage and
+measures the relative time we are deep concentrated on what we do. Flow state has
+an amazing impact on development cycles times. One big threat for  
+flow state is synchronous communication.  
 
 ## Synchronous communication? 
 
-Synchronous communication is a face to face oral discussion. 
+Synchronous communication includes face to face conversation or phone
+discussion. 
 Synchronous because people talking do 
 it at the same exact moment: ever tried answering your colleagues 
-2 minutes or 1 hour after they questioned you? Impossible as
-talking means direct and not delayed interaction.  
-It has to be compared with asynchronous communication which 
-relies on a written exchange.   
+2 minutes or 1 hour after they asked you a question? That's impossible 
+as oral conversations don't work with delay.
+Asynchronous communication solves that problem  
+by relies on a written exchange.   
 
 ##What for?  
 
-Oral conversation is **appropriate only for situations involving long
-tirades, arguments, strong opinions to defend**: resolve a conflict, 
-argue, deliberate...  
+Oral conversation is **appropriate only when a written exchange could take
+much longer than it should**: conflict resolution, 
+ detailed explanation of a topic, etc. 
+  
 For other situations synchronous communication is 
 counter-productive.  
 
@@ -29,33 +37,36 @@ before having an oral discussion. Why? Here are **4 reasons**:
 
 * **Oral discussion = interruption** When somebody
   asks you something it drains all your attention. You have to switch your
-  brain to provide the adequate answer which means lose all the
+  focus to provide the adequate answer which means you lose all the
   concentration you had in your work. 
   The ten-seconds question becomes a ten-minutes perturbation, taking into
-  account the time to refocus and recall what your were doing.  
+  account the time you need to refocus (if you even manage to refocus)
+  and recall what your were doing.  
 
 * **It involves moving and/or shouting in the office**. Depending on
   your work office configuration talking with somebody means moving to his
   desk or shouting through the open space. In the former case it
-  magnifies your work interruption. In the latter case your
-  colleagues will be thankful not to miss a word of your private conversation.   
+  magnifies your work interruption. In the latter case you'll manage
+  to effectively disturb everyone of your coworkers.  
 
-* **Conversation drifts definitely** Oral conversation drifts more than
-  a bobsleigh on the ice. Have you never start a conversation speaking
-  of the crucial decision you should take and end speaking of the last
-  hilarious MIME you read?  
+* **Conversations drift fatally** Oral conversation drifts more than
+  a bobsleigh on the ice. Have you ever started a conversation about
+  the crucial decision you should take and ended up speaking of the last
+  hilarious meme you read?  
 
-* **Exchange is lost for the posterity** Oral conversation is not actionable, for you
-  and even more for your teammates. What if you need to recall all the points
+* **Exchanges are lost for the posterity** Oral conversation is not actionable, for you
+  or your teammates. What if you need to recall all the points
   stated? How do you keep track of the history of your conversation?
   What if the following week you'll have the same question? 
   Won't you feel bad disturbing your colleagues again?  
 
-Common sense recommends trying to **find the solution by yourself** 
-before looking for help. But we know this is normal
+
+Before engaging any kind of communication there is one thing 
+you should try: **find an answer by yourself**. 
+But sometimes it's more efficient
 asking for somebody's help instead of googling to find the appropriate
 answer. In that case **go for asynchronous communication.**
 
 In a later post I'll cover asynchronous communication
-especially the pitfalls of emails and the benefits having a chat room
+especially the pitfalls of emails and the benefits of having a chat room
 for your team.
