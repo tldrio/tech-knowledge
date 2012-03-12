@@ -1,4 +1,4 @@
-Title: Why You Should'nt Use Synchronous Communication At Work
+Title: Why You Should'nt Use Synchronous Communication At Work  
 Tags: communication, productivity   
 Autopost: false  
 Private: true  
