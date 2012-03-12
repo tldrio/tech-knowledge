@@ -6,13 +6,13 @@ Private: true
 In a recent [post](http://www.forbes.com/sites/bruceupbin/2011/12/13/five-new-management-metrics-you-need-to-know/ "Article"),
 James Slavet (Greylock Partners) describes metrics we should consider to
 be more productive. The top one is called Flow State Percentage and
-measures the relative time we are deep concentrated on what we do. Flow state has
+measures the relative time we are deeply concentrated on what we are doing. Flow state has
 an amazing impact on development cycles times. One big threat for  
 flow state is synchronous communication.  
 
 ## Synchronous communication? 
 
-Synchronous communication includes face to face conversation or phone
+Synchronous forms of communication include face to face conversation or phone
 discussion. 
 Synchronous because people talking do 
 it at the same exact moment: ever tried answering your colleagues 
@@ -23,7 +23,7 @@ by relies on a written exchange.
 
 ##What for?  
 
-Oral conversation is **appropriate only when a written exchange could take
+Oral conversations are **only appropriate when a written exchange could take
 much longer than it should**: conflict resolution, 
  detailed explanation of a topic, etc. 
   
@@ -49,22 +49,22 @@ before having an oral discussion. Why? Here are **4 reasons**:
   magnifies your work interruption. In the latter case you'll manage
   to effectively disturb everyone of your coworkers.  
 
-* **Conversations drift fatally** Oral conversation drifts more than
-  a bobsleigh on the ice. Have you ever started a conversation about
+* **Fatally you drift** Oral conversations drift more than
+  a bobsleigh on ice. Have you ever started a conversation about
   the crucial decision you should take and ended up speaking of the last
   hilarious meme you read?  
 
-* **Exchanges are lost for the posterity** Oral conversation is not actionable, for you
+* **Exchanges are lost for the posterity** Oral conversations are not actionable, for you
   or your teammates. What if you need to recall all the points
   stated? How do you keep track of the history of your conversation?
   What if the following week you'll have the same question? 
   Won't you feel bad disturbing your colleagues again?  
 
 
-Before engaging any kind of communication there is one thing 
+Before engaging in any kind of communication there is one thing 
 you should try: **find an answer by yourself**. 
 But sometimes it's more efficient
-asking for somebody's help instead of googling to find the appropriate
+to ask for somebody's help instead of googling to find the appropriate
 answer. In that case **go for asynchronous communication.**
 
 In a later post I'll cover asynchronous communication
