@@ -7,8 +7,7 @@ In a recent [post](http://www.forbes.com/sites/bruceupbin/2011/12/13/five-new-ma
 James Slavet (Greylock Partners) describes metrics we should consider to
 be more productive. The top one is called Flow State Percentage and
 measures the relative time we are deeply concentrated on what we are doing. Flow state has
-an amazing impact on development cycles times. One big threat for  
-flow state is synchronous communication.  
+an amazing impact on development cycles times. A big threat to flow state lies in synchronous communication.  
 
 [![Muzzle](http://farm2.staticflickr.com/1209/1226209342_ad08767199_m.jpg)](http://www.flickr.com/photos/hand-nor-glove/1226209342/)
 *[CC license](http://creativecommons.org/ licenses/by/2.0 "license") - by [This Year Love](http://www.flickr.com/photos/hand-nor-glove/ "Author")*
@@ -16,23 +15,21 @@ flow state is synchronous communication.
 
 ## Synchronous communication? 
 
-Synchronous forms of communication include face to face conversation or phone
-discussion. 
-Synchronous because people talking do 
-it at the same exact moment: ever tried answering your colleagues 
+Synchronous forms of communication include face
+to face conversation or phone discussion. 
+Synchronous because people talking do it at the 
+same exact moment: ever tried answering your colleagues 
 2 minutes or 1 hour after they asked you a question? That's impossible 
 as oral conversations don't work with delay.
-Asynchronous communication solves that problem  
+Asynchronous communication solves that problem 
 by relies on a written exchange.   
 
 ##What for?  
 
 Oral conversations are **only appropriate when a written exchange could take
-much longer than it should**: conflict resolution, 
- detailed explanation of a topic, etc. 
-  
-For other situations synchronous communication is 
-counter-productive.  
+much longer than it should**: conflict resolution, detailed 
+explanation of a topic, etc. For other situations 
+synchronous communication is counter-productive.  
 
 ## The pitfalls of synchronous communication at work   
 
