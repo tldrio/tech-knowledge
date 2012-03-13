@@ -1,7 +1,7 @@
 Title: Why You Should'nt Use Synchronous Communication At Work  
 Tags: communication, productivity   
-Autopost: false  
-Private: true  
+Autopost: true  
+Private: false  
 
 In a recent [post](http://www.forbes.com/sites/bruceupbin/2011/12/13/five-new-management-metrics-you-need-to-know/ "Article"),
 James Slavet (Greylock Partners) describes metrics we should consider to
