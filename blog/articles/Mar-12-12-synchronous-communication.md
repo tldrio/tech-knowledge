@@ -10,6 +10,10 @@ measures the relative time we are deeply concentrated on what we are doing. Flow
 an amazing impact on development cycles times. One big threat for  
 flow state is synchronous communication.  
 
+[![Muzzle](http://farm2.staticflickr.com/1209/1226209342_ad08767199_m.jpg)](http://www.flickr.com/photos/hand-nor-glove/1226209342/)
+*[CC license](http://creativecommons.org/ licenses/by/2.0 "license") - by [This Year Love](http://www.flickr.com/photos/hand-nor-glove/ "Author")*
+
+
 ## Synchronous communication? 
 
 Synchronous forms of communication include face to face conversation or phone
