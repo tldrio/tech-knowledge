@@ -1,7 +1,7 @@
-Title: Why Asynchronous Communication Is Superior? 
-Tags: communication, asynchronous, chat, productivity
-Autopost: false  
-Private: true  
+Title: Why Asynchronous Communication Is Superior?   
+Tags: communication, asynchronous, chat, productivity  
+Autopost: false    
+Private: true    
 
 In a [recent article](http://needforair.com/why-you-shouldnt-use-synchronous-communicatio-70441 "recent article") 
 I detailed why synchronous communication is not
