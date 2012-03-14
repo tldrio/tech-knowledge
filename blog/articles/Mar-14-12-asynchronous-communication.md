@@ -24,7 +24,7 @@ asynchronous communication media are letter, text message, email,
 chat. They all share a common something in common: they are **written communication
 media**.  
 
-## Asynchronous channels superior  
+## Asynchronous Channels Are Superior 
 
 The massive use of text messages illustrates the **usefulness and the
 advantages an asynchronous communication offers over an oral conversation.**
@@ -33,7 +33,7 @@ You should use different asynchronous communication medium for each specific use
 Do it by chat. Code review? Use Github and Pull Requests. Important annoucements? Write an email. Organize 
 your communication and insert it in your workflow.
 
-## Why does emails kill your productivity?  
+## Why Does Email Kill Your Productivity?  
 
 People only use emails to communicate asynchronously at work. Emails are adapted for
 internal communication like **reports, formal announcements**. If you write less-than-two-lines emails 
@@ -42,7 +42,7 @@ you are doing wrong. Do you really need an email to say *"Ok I'll do it"* or *"T
 For the everyday use they are counter productive. You end up receiving tons
 of emails a day, **spending hours responding, deleting, archiving.**
 
-## The right communication medium: the Chat Room  
+## The Right Communication Medium: the Chat Room  
 
 Setting up a chat room for your team is probably one of the most important
 action you can do to improve its efficiency and productivity. 
