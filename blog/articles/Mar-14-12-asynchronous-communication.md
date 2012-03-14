@@ -41,9 +41,9 @@ of emails a day, **spending hours responding, deleting, archiving.**
 
 Setting up a chat room for your team is probably one of the most important
 action you can do to improve its efficiency and productivity. 
-90% of its communication should occur there. **You have all your
-conversation, files and links history, you can create groups of discussions, 
-the process to send a message is so much easier**! Aren't you bored of 
+90% of its communication should occur there. With a chat room solution
+**conversations history is easily accessible, you can simultaneously participate to
+multiple groups of discussions, sending a message is so much easier**! Aren't you bored of 
 clicking *New Message*, filling in recipients addresses? Even clicking on *Respond* 
 is painful.  
 You should use your chat room to communicate even if you work 
