@@ -1,4 +1,4 @@
-Title: Why Asynchronous Communication Is Superior?   
+Title: Why Is Asynchronous Communication Superior?   
 Tags: communication, asynchronous, chat, productivity  
 Autopost: false    
 Private: true    
