@@ -17,26 +17,26 @@ doing it.
 
 ## Asynchronous?  
 
-WTF is this? Asynchronous means that things can occur not at the
-time, with delay in between. In an asynchronous communication
+Asynchronous means that things can occur not at the
+same time, with delay in between. In an asynchronous communication
 interlocutors can exchange and continue their discussion
 whenever they want it. Examples of
-asynchronous communication medium are: letter, text message, email,
-chat... They all share a common point: they are **written communication
+asynchronous communication medium are letter, text message, email,
+chat. They all share a common point: they are **written communication
 mediums**.  
 
 ## Asynchronous means superior  
 
 The massive use of text messages illustrates the **usefulness and the
 advantages an asynchronous communication offers over an oral conversation.**
-It's quick and efficient, you can respond hours later, you keep track of the history etc.
+It's quick and efficient, you can respond hours later, you keep track of the history.
 
 ## Why Emails kill your productivity?  
 
 People widely use emails to communicate at work. Emails are adapted for
 internal communication like **reports, formal announcements**. For the
 everyday use case they are counter productive. You end up receiving tons
-of emails a day, **spending hours responding, deleting, archiving etc.**
+of emails a day, **spending hours responding, deleting, archiving.**
 
 ## The right communication medium: the Chat Room  
 
@@ -48,8 +48,8 @@ the process to send a message is so much easier**! Aren't you bored
 clicking *New Message*, filling recipients addresses? Even clicking on *Respond* 
 is painful.  
 You should use your chat room to communicate even if you work 
-in the same room for the reasons I detailed in my
-[previous post](http://needforair.com/why-you-shouldnt-use-synchronous-communicatio-70441 "Previous post").  
+in the same room for these
+[reasons](http://needforair.com/why-you-shouldnt-use-synchronous-communicatio-70441 "Previous post").  
 
 **Don't waste more time and set up your private chat room.** 
 [HipChat](http://www.hipchat.com "HipChat") is a great tool for that. 
