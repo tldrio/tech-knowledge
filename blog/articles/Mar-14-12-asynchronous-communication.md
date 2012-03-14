@@ -39,7 +39,6 @@ and will diminish the pressure of a single overloaded inbox.
 At work, people seem to use email as the sole form of asynchronous communication. Emails are adapted for
 internal communication like **reports, formal announcements**. If you write less-than-two-lines emails 
 you are doing it wrong. Do you really need an email to say *"Ok I'll do it"* or *"Thanks"*? 
-[No, I mean it, you don't.](http://www.doineedaflashintro.com/)  
 For everyday use they are counter productive. You end up receiving tons
 of emails a day, **spending hours responding, deleting and archiving.**
 
