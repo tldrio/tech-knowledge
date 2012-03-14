@@ -29,18 +29,19 @@ media**.
 The massive use of text messages illustrates the **usefulness and the
 advantages an asynchronous communication offers over an oral conversation.**
 It's quick, efficient, you can respond hours later and  keep track of the history. 
-You should use different asynchronous communication medium for each specific use case. You day-to-day conversation?
-Do it by chat. Code review? Use Github and Pull Requests. Important annoucements? Write an email. Organize 
-your communication and insert it in your workflow.
+You should use different asynchronous communication media for different usecases. Your day-to-day conversation?
+Do it by chat. A code review? Use Github and Pull Requests. Important annoucements? Write an email. Organize 
+your communication and insert it in your workflow. Segmenting your communication will help you manage it efficiently
+and will diminish the pressure of a single overloaded inbox.
 
 ## Why Does Email Kill Your Productivity?  
 
-People only use emails to communicate asynchronously at work. Emails are adapted for
+At work, people seem to use email as the sole form of asynchronous communication. Emails are adapted for
 internal communication like **reports, formal announcements**. If you write less-than-two-lines emails 
-you are doing wrong. Do you really need an email to say *"Ok I'll do it"* or *"Thanks"*? 
+you are doing it wrong. Do you really need an email to say *"Ok I'll do it"* or *"Thanks"*? 
 [No, I mean it, you don't.](http://www.doineedaflashintro.com/)  
-For the everyday use they are counter productive. You end up receiving tons
-of emails a day, **spending hours responding, deleting, archiving.**
+For everyday use they are counter productive. You end up receiving tons
+of emails a day, **spending hours responding, deleting and archiving.**
 
 ## The Right Communication Medium: the Chat Room  
 
