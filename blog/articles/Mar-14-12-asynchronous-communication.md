@@ -5,10 +5,9 @@ Private: true
 
 In a [recent article](http://needforair.com/why-you-shouldnt-use-synchronous-communicatio-70441 "recent article") 
 I detailed why synchronous communication is not
-appropriate for work: it leads to interruptions, it involves moving or
-shouting, it drifts and it leaves no trace.  
-To solve this communication problem I believe in the asynchronous way of
-doing it.  
+appropriate for work: it leads to interruptions, involves moving or
+shouting, drifts and leaves no trace.  
+To solve this communication problem I believe in the asynchronous way.  
 
 
 [![Carrier Pigeon](http://farm7.staticflickr.com/6052/6370949347_a66d54d217_m.jpg)](http://www.flickr.com/photos/68346521@N08/6370949347/)
