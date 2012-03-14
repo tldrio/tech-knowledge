@@ -28,13 +28,18 @@ media**.
 
 The massive use of text messages illustrates the **usefulness and the
 advantages an asynchronous communication offers over an oral conversation.**
-It's quick and efficient, you can respond hours later, you keep track of the history.
+It's quick, efficient, you can respond hours later and  keep track of the history. 
+You should use different asynchronous communication medium for each specific use case. You day-to-day conversation?
+Do it by chat. Code review? Use Github and Pull Requests. Important annoucements? Write an email. Organize 
+your communication and insert it in your workflow.
 
 ## Why does emails kill your productivity?  
 
-People widely use emails to communicate at work. Emails are adapted for
-internal communication like **reports, formal announcements**. For the
-everyday use case they are counter productive. You end up receiving tons
+People only use emails to communicate asynchronously at work. Emails are adapted for
+internal communication like **reports, formal announcements**. If you write less-than-two-lines emails 
+you are doing wrong. Do you really need an email to say *"Ok I'll do it"* or *"Thanks"*? 
+[No, I mean it, you don't.](http://www.doineedaflashintro.com/)  
+For the everyday use they are counter productive. You end up receiving tons
 of emails a day, **spending hours responding, deleting, archiving.**
 
 ## The right communication medium: the Chat Room  
@@ -46,9 +51,10 @@ action you can do to improve its efficiency and productivity.
 multiple groups of discussions, sending a message is so much easier**! Aren't you bored of 
 clicking *New Message*, filling in recipients addresses? Even clicking on *Respond* 
 is painful.  
-You should use your chat room to communicate even if you work 
-in the same room for these
-[reasons](http://needforair.com/why-you-shouldnt-use-synchronous-communicatio-70441 "Previous post").  
+Chat rooms are really the most adequate medium to communicate for your team. 
+[Even](http://needforair.com/why-you-shouldnt-use-synchronous-communicatio-70441 "Previous post") 
+if you work at the same place.  
+
 
 **Don't waste more time and set up your private chat room.** 
 [HipChat](http://www.hipchat.com "HipChat") is a great tool for that. 
