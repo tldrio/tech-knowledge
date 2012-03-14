@@ -3,11 +3,12 @@ Tags: communication, asynchronous, chat, productivity
 Autopost: false    
 Private: true    
 
-In a [recent article](http://needforair.com/why-you-shouldnt-use-synchronous-communicatio-70441 "recent article") 
+In my [last article](http://needforair.com/why-you-shouldnt-use-synchronous-communicatio-70441 "last article") 
 I detailed why synchronous communication is not
 appropriate for work: it leads to interruptions, involves moving or
 shouting, drifts and leaves no trace.  
-To solve this communication problem I believe in the asynchronous way.  
+To solve this communication problem I believe in the asynchronous way of
+doing it.  
 
 
 [![Carrier Pigeon](http://farm7.staticflickr.com/6052/6370949347_a66d54d217_m.jpg)](http://www.flickr.com/photos/68346521@N08/6370949347/)
@@ -16,21 +17,20 @@ To solve this communication problem I believe in the asynchronous way.
 
 ## Asynchronous?  
 
-Asynchronous means that things can occur not at the
-same time, with delay in between. In an asynchronous communication
+WTF is this? In an asynchronous communication
 interlocutors can exchange and continue their discussion
 whenever they want it. Examples of
-asynchronous communication medium are letter, text message, email,
-chat. They all share a common point: they are **written communication
-mediums**.  
+asynchronous communication media are letter, text message, email,
+chat. They all share a common something in common: they are **written communication
+media**.  
 
-## Asynchronous means superior  
+## Asynchronous channels superior  
 
 The massive use of text messages illustrates the **usefulness and the
 advantages an asynchronous communication offers over an oral conversation.**
 It's quick and efficient, you can respond hours later, you keep track of the history.
 
-## Why Emails kill your productivity?  
+## Why does emails kill your productivity?  
 
 People widely use emails to communicate at work. Emails are adapted for
 internal communication like **reports, formal announcements**. For the
@@ -39,12 +39,12 @@ of emails a day, **spending hours responding, deleting, archiving.**
 
 ## The right communication medium: the Chat Room  
 
-Set up a chat room for your team is probably one of the most important
-action you could do to improve its efficiency and productivity. 
+Setting up a chat room for your team is probably one of the most important
+action you can do to improve its efficiency and productivity. 
 90% of its communication should occur there. **You have all your
 conversation, files and links history, you can create groups of discussions, 
-the process to send a message is so much easier**! Aren't you bored
-clicking *New Message*, filling recipients addresses? Even clicking on *Respond* 
+the process to send a message is so much easier**! Aren't you bored of 
+clicking *New Message*, filling in recipients addresses? Even clicking on *Respond* 
 is painful.  
 You should use your chat room to communicate even if you work 
 in the same room for these
