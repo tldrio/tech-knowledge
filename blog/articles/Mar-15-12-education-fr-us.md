@@ -7,6 +7,9 @@ Private: true
 _France's higher education trains one of the world's best academic
 elite, but is home to very few successful start-ups. Having studied engineering in France and then at Stanford University, I will try to explains this apparent paradox._
 
+[![Test taking](http://farm3.staticflickr.com/2168/2417001179_d5ce2d9362_m.jpg)](http://www.flickr.com/photos/billselak/2417001179/)
+*[CC license](http://creativecommons.org/ licenses/by/2.0 "license") - by [billaday](http://www.flickr.com/photos/billselak/ "Author")*
+
 #### Party hard, study a bit, get straight As
 When I took my first classes at Stanford University, I was very
 surprised by the difficulty level. My French friends and I found the material to be very straightforward, the assignments and exams were very easy and the grading more than forgiving. We would party a lot, study a bit, and still get close to 4.0 GPAs. Simply put, we thought we were on top of the (academic) world. Of course, we were wrong.
