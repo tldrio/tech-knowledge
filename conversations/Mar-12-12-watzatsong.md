@@ -22,7 +22,8 @@ Watzatsong is a crowdsourced [Shazam](http://shazam.com).
 * Learn from your power-users and cherish them but don't listen to all
   their whims even if they blackmail you. Reward them for their work in a certain way, they are
   aware of their contribution to your success. Don't make them jealous
-  or angry, they are the core of your community.
+  or angry, they are the core of your community.  
+* Removing a feature is hard so go incrementally.  
 * Gamification is super important to drive a community
 
 ## About tldr
