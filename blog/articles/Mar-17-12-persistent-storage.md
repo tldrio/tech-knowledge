@@ -1,7 +1,7 @@
 Title: What Will Your Last Holidays Photos Become?  
 Tags: storage, persistence, memory     
-Autopost: false   
-Private: true   
+Autopost: true     
+Private: false     
 
 Yesterday was my wife's grand father funeral. Those moments are intense
 family time where everybody gathers together and tells all the anecdotes they
@@ -28,7 +28,7 @@ make for false advertising. They don't last more than 10 to 15 years maximum und
 optimal conditions. And at the current pace we won't find an optical
 disk reader in 15 years.  
 
-That's why I was wondering if our grand children will live such
+That's why I was wondering if our grandchildren will live such
 moments. They won't find any usable DVDs nor our Dropbox password in
 the attic. What will be the physical media storage support of our generation 
 that will allow our grandchildren to dive into our memories?
