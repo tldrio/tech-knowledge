@@ -1,4 +1,4 @@
-Title: What Did You Do With Your Last Holidays Photos?  
+Title: What Will Your Last Holidays Photos Become?  
 Tags: storage, persistence, memory     
 Autopost: false   
 Private: true   
