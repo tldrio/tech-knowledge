@@ -11,8 +11,8 @@ so much time reading would be a huge waste if it wasn't consolidated in
 some fashion. That's why we decided to write summaries of the best
 articles we find.
 
-[![Image desc](Image url)](Original image page)
-*[CC license](http://creativecommons.org/licenses/by/2.0 "license") - by [Image author](Author homepage "Author")*
+[![Keep the gist](http://farm1.staticflickr.com/42/102673733_39cbb51495_n.jpg)](http://www.flickr.com/photos/60546721@N00/102673733/)
+*[CC license](http://creativecommons.org/licenses/by/2.0 "license") - by [aroid](http://www.flickr.com/photos/60546721@N00)*
 
 
 ## It forces you to really understand what the article is about
