@@ -38,9 +38,10 @@ be more structured and organized.
 Bookmarking is currently the only way of organizing and keeping up with the content that you
 loved and that you would want to be able to find again later and share
 to others via tools such as [Delicious](http://delicious.com "Delicious"), 
-or [Pinboard](http://pinboard.in "Pinboard") or [Evernote](http://evernote.com "Evernote").
+or [Pinboard](http://pinboard.in "Pinboard").
 However you still need to reread the whole article once you go back to
-it, which can be a waste of time in some cases.
+it, which can be a waste of time in some cases. [Evernote](http://evernote.com "Evernote") is better in that regard as
+you make save notes on any topic.
 
 **If you had summaries for each of your bookmarks**, you could go back to
 that content and filter it in a much more effective fashion, deciding
