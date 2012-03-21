@@ -1,7 +1,7 @@
 Title: Why We Write Digests of Interesting Content  
-Tags: digest, tldr, content, time, memory, sharing
-Autopost: false   
-Private: true   
+Tags: digest, tldr, content, time, memory, sharing  
+Autopost: true   
+Private: false   
 
 All three of us read a lot. Blogs, [Hacker
 News](http://news.ycombinator.com "Hacker News"), links we get through
